@@ -12,11 +12,11 @@
 
 2. After logging in (or registering) they will be brought to their user page which will display:
 
-⋅⋅⋅* Their Name and information (Wins, Losses, Current Games, etc...)
-⋅⋅⋅* A display of all of their current games
-⋅⋅⋅* A friends list
-⋅⋅⋅* A link to create a new game
-⋅⋅⋅* A link to an 'add new friend' page/popup
+⋅⋅* Their Name and information (Wins, Losses, Current Games, etc...)
+⋅⋅* A display of all of their current games
+⋅⋅* A friends list
+⋅⋅* A link to create a new game
+⋅⋅* A link to an 'add new friend' page/popup
 
 3. If they click "create a new game" they will be brought to a page to type in the username they would like to challenge or select a random opponent.
 
@@ -35,7 +35,7 @@
 2. If it is the opponent's turn, the user will not be allowed to interact with any of the pieces.
 
 3. Upon finishing the game, the loser will be prompted to "Challenge Again?" and a new game will be created if they do.  
-⋅⋅⋅* They will also have the option to return to the home page.
+⋅⋅* They will also have the option to return to the home page.
 
 4. A nav bar will always be available at the top of the screen.
 
@@ -54,12 +54,12 @@
 2. The board is set up accordingly
 
 3. The pieces are only allowed to move depending on their type
-⋅⋅⋅* Queen  -- (y +-) or (x +-) or ((x+-)+(y+-))
-⋅⋅⋅* King   -- (y +- 1) or (x +- 1) or ((x+- 1)+(y+- 1)) or (castle)
-⋅⋅⋅* Pawn   -- (y + 1) or (diagonal) or (2 on first move)
-⋅⋅⋅* Knight -- ((y+-2),(x+-1))
-⋅⋅⋅* Rook   -- (y +-) or (x +-) or (castle)
-⋅⋅⋅* Bishop -- ((x+-)+(y+-))
+⋅⋅* Queen  -- (y +-) or (x +-) or ((x+-)+(y+-))
+⋅⋅* King   -- (y +- 1) or (x +- 1) or ((x+- 1)+(y+- 1)) or (castle)
+⋅⋅* Pawn   -- (y + 1) or (diagonal) or (2 on first move)
+⋅⋅* Knight -- ((y+-2),(x+-1))
+⋅⋅* Rook   -- (y +-) or (x +-) or (castle)
+⋅⋅* Bishop -- ((x+-)+(y+-))
 
 4. The pieces cannot move past any other piece that is in their path
 
